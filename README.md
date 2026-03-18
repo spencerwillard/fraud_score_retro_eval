@@ -115,13 +115,15 @@ This suggests a **risk-tier strategy** may be more effective than a single cutof
 ---
 
 ## Project Structure
-fraud_score_retro_eval/
-├── data/
-├── notebooks/
-│   └── fraud_analysis.ipynb
-├── README.md
-├── requirements.txt
-└── main.py
+- fraud_score_retro_eval/
+- data/
+  - outcomes.csv
+  - scores.csv
+- notebooks/
+  - fraud_analysis.ipynb
+- README.md
+- requirements.txt
+- main.py
 
 ---
 
